@@ -1,5 +1,8 @@
 body {
     background-image: linear-gradient(#FFC0CB, #FFDEAD);
+     margin-left: 150px;
+    margin-right: 150px;
+    text-align: justify;
 }
 .rabbit{
  width:400px;
